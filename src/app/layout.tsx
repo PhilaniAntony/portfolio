@@ -11,9 +11,8 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
-  title: 'ChainFund',
-  description:
-    'ChainFund is reshaping financial access in Africa through decentralized infrastructure, stablecoins, and cross-border solutions for inclusive growth.',
+  title: 'ChainFund | DeFi Portfolio by Philani A. Dlamini',
+  description: 'Portfolio showcasing DeFi, stablecoins, cross-border solutions, and decentralized infrastructure development by ChainFund co-founder Philani A. Dlamini.',
 };
 
 export default function RootLayout({
