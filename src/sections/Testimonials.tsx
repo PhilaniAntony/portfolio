@@ -24,26 +24,26 @@ const testimonials = [
   {
     name: 'Shane Turner',
     position: 'Business Analyst @ Global Kinetic',
-    text: "Really enjoyed my time working with Philani (aka Philz) on a project over an extended period of time. As someone rising up in the world of testing and automation, I can see Philz really growing in an environment where is given the freedom to do so.",
+    text: 'Really enjoyed my time working with Philani (aka Philz) on a project over an extended period of time. As someone rising up in the world of testing and automation, I can see Philz really growing in an environment where is given the freedom to do so.',
     avatar: memojiAvatar3,
   },
   {
     name: 'Jason Wandrag',
     position: 'Senior Developer @ Silicon Overdrive',
-    text: "Philani has shown himself to be one of the most diligent and hardworking developers I have met. He is constantly growing and challenging himself and those around him. I have found great joy in the intellectual conversations I have with Philani, and I would recommend him for any tech position.",
+    text: 'Philani has shown himself to be one of the most diligent and hardworking developers I have met. He is constantly growing and challenging himself and those around him. I have found great joy in the intellectual conversations I have with Philani, and I would recommend him for any tech position.',
     avatar: memojiAvatar5,
   },
   {
     name: 'Zayaan Stegmann',
     position: 'Quality Assurance Analyst @ MegaCorp',
-    text: "Philani is excellent and an incredible resource to have on my team. He is always going the extra mile to do research and further learning to share with his teammates. ",
+    text: 'Philani is excellent and an incredible resource to have on my team. He is always going the extra mile to do research and further learning to share with his teammates. ',
     avatar: memojiAvatar4,
   },
 ];
 
 export const TestimonialsSection = () => {
   return (
-    <div className="py-16 lg:py-24" id="testimonials">
+    <section className="py-16 lg:py-24" id="testimonials">
       <div className="container">
         <SectionHeader
           eyebrows="Peer Feedback"
@@ -84,6 +84,6 @@ export const TestimonialsSection = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };

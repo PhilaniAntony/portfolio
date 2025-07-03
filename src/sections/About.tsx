@@ -59,39 +59,38 @@ const hobies = [
     title: 'Decentralized Finance (DeFi)',
     emoji: '💹',
     left: '2.5%',
-    top: '12.5%',
+    top: '15%',
   },
   {
     title: 'Stablecoins & Digital Currencies',
     emoji: '💱',
     left: '2.5%',
-    top: '25%',
+    top: '29.5%',
   },
   {
     title: 'Startup Funding & Tokenized Capital',
     emoji: '🚀',
     left: '2.5%',
-    top: '37.5%',
+    top: '44.5%',
   },
   {
     title: 'Decentralized Infrastructure Architecture',
     emoji: '🏗️',
     left: '2.5%',
-    top: '50%',
+    top: '58.5%',
   },
   {
     title: 'Cross-Border Payments & Trade Infrastructure',
     emoji: '🌐',
     left: '2.5%',
-    top: '62.5%',
+    top: '72.5%',
   },
   {
     title: 'Blockchain Development (EVM, Solidity, Foundry)',
     emoji: '💻',
     left: '2.5%',
-    top: '75%',
+    top: '87.5%',
   },
-  
 ];
 
 export const AboutSection = () => {
@@ -140,7 +139,7 @@ export const AboutSection = () => {
             <Card className="min-h-[35vh] p-0 flex-col">
               <CardHeader
                 title="My Interests"
-                description="Explore my interest and hobbies beyond the digital realm."
+                description="Explore My Interest In The DeFi Space."
                 className="px-6 py-6"
               />
               <div
