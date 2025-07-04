@@ -69,7 +69,7 @@ const portfolioProjects = [
           'Optimized UI/UX for token launch teams, resulting in a 40% boost in engagement and 35% increase in mobile usage',
       },
     ],
-    link: 'https://airstack-h2k2.vercel.app/',
+    link: 'https://github.com/PhilaniAntony/airstack',
     image: aiStartupLandingPage,
   },
 ];
